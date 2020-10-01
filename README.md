@@ -6,7 +6,7 @@ If there is something wrong with the content on that web site,
 feel free to
 [file an issue with this repository](https://github.com/CindyJS/website/issues),
 or formulate a pull request.
-Note that most pages will come with an edit link in the bottom right corner.
+Note that most of the pages will come with an edit link in the bottom right corner.
 
 ## Testing/developing the website on your local machine
 
